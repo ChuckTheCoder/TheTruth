@@ -1,0 +1,15 @@
+<body bgcolor="black">
+</body>
+<body text="white">
+</body>
+<h1>Alright fine.</h1>
+<h3>You are willing to waste your time because of curiousity, I get it.</h3>
+<h3>Your doing this because you want to see what I'm going to say next, right?</h3>
+<br>
+<button onclick="window.location.href='https://speedychuck.com';">Nah I'm good.</button>
+
+
+
+
+
+<button onclick="window.location.href='https://example.com';">maybe</button>
